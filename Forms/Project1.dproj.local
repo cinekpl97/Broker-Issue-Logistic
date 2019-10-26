@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.719,D:\PROGRAMOWANIE\Delphi programy\TransportArrays\Forms\Project1.dproj=D:\PROGRAMOWANIE\Delphi programy\Project1.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.146,=D:\PROGRAMOWANIE\Delphi programy\TransportArrays\Forms\FastMM4.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.973,D:\PROGRAMOWANIE\Delphi programy\TransportArrays\Forms\frmMain.pas=D:\PROGRAMOWANIE\Delphi programy\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.002,=D:\PROGRAMOWANIE\Delphi programy\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.973,D:\PROGRAMOWANIE\Delphi programy\TransportArrays\Forms\frmMain.dfm=D:\PROGRAMOWANIE\Delphi programy\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
